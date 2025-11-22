@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bernardo
 
-<!--
-**eubpereira/eubpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩🏻‍💻 Bernardo Pereira
 
-Here are some ideas to get you started:
+**`Analista de QA`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Bernardo dos Santos Pereira, tenho 29 anos e sou natural do Rio de Janeiro. Realizei um Bootcamp em Analista de Controle de Qualidade na escola de Tecnologia TripleTen no ano de 2025 e me apaixonei pela área! 
+
+  <a href="https://github.com/eubpereira?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
