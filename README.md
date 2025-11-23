@@ -69,13 +69,13 @@ Me chamo Bernardo dos Santos Pereira, tenho 29 anos e sou natural do Rio de Jane
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eubpereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=eubpereira&show_icons=true&theme=tokyonight&locale=pt-br"
+/>
 
 <img 
       align="left" 
