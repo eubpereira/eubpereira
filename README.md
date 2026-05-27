@@ -37,6 +37,7 @@ Me chamo Bernardo dos Santos Pereira, tenho 29 anos e sou natural do Rio de Jane
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+
 <img 
     align="left" 
     alt="HTML"
@@ -61,6 +62,15 @@ Me chamo Bernardo dos Santos Pereira, tenho 29 anos e sou natural do Rio de Jane
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" 
 />
 
 <br/>
